@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test-socket.io",
-    "slug": "test-socket.io",
+    "name": "test-socket_io",
+    "slug": "test-socket_io",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
